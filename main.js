@@ -27,4 +27,4 @@ function buttonClickHandler(event) {
 function constructURL(inputText) {
     var encodedURI = encodeURI(inputText);
     return `${url}?text=${encodedURI}`;
-}
+}a
